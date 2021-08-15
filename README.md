@@ -1,2 +1,2 @@
 # UpTask
-Proyecto creado con NodeJS - MongoDB - Express
+Proyecto creado con NodeJS - MySql - Express
